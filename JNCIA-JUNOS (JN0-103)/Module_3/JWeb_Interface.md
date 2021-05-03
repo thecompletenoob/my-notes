@@ -14,7 +14,7 @@ A web based GUI accessed by HTTP(S) and provides quick config wizards to configu
 
 ## JWeb Login
 
-JWeb uses the same authentication methods as the CLI - same username and password.
+JWeb uses the same authentication methods as the CLI whether an external authentication such as Radius or configured usernames and passwords on the system.
 
 ### Enable JWeb
 
