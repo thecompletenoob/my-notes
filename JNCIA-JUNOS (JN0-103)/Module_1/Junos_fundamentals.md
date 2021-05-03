@@ -18,7 +18,7 @@
 
 ### Routing Engine(RE) - Control Plane
 
-![Junos Architecture](/images/Module_1/junos_architecture.png)
+![Junos Architecture](../images/Module_1/junos_architecture.png)
 
 - Based on X86 or PowerPC architecture
 - Maintains the routing tables, bridging tables and primary forwarding table
@@ -126,7 +126,7 @@ Software emulation of MX hardware is executed down to the level of compiling the
 
 ## Evolution of Junos
 
-![Evolution of Junos](/images/Module_1/Junos_evolution.png)
+![Evolution of Junos](../images/Module_1/Junos_evolution.png)
 
 ### Advantages of Disaggregated Junos
 
