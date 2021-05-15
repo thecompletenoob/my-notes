@@ -126,6 +126,10 @@ To load the rescue config (Configuration mode):
 
 **Note**: This has to be committed before it is applied.
 
+## Saving the config file
+
+You can use the `save filename` to save the candidate config to a file. The default location is */var/home/username/filename*
+
 ## Interfaces
 
 ### Interface Naming
