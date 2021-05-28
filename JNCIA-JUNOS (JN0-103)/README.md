@@ -9,3 +9,5 @@ Images are mostly screenshots from the free Juniper Open Learning video course. 
 # References
 
 Juniper Open Learning Course (Open Learning - Junos, Associate (JNCIA-Junos))
+
+[Anton Chmutov Derevianko's JN0-103 Notes](https://gist.github.com/chmutoff/5a1e8a04d694089acbc00b1565e953fa)
