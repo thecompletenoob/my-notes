@@ -145,3 +145,22 @@ Software emulation of MX hardware is executed down to the level of compiling the
 - 3rd Party Applications can access and write to the database and provide information for administrators and consumers
 
 ## Software releases
+
+```text
+17.3 R 2.13
+ ^ ^ ^ ^ ^
+ | | | | + spin number
+ | | | + build number
+ | | + software release
+ | + minor release number
+ + main release number
+
+```
+
+Release Types:
+
+- R - Maintenance Release
+- S - Service Release (Bug fixes) Eg. 14.2.R3-S4.4
+- X - Special (eXception) release
+- B - Beta Release
+- I - Internal Release (Private releases for fix verification)
